@@ -1,4 +1,4 @@
-Employee CRUD REST API using Golang/GIn 
+Employee CRUD REST API using Golang/Gin 
 ============================================
 
 Demo link - https://www.loom.com/share/be618559e4a145edbd19c1032cf2ce8d?sid=77ee38b7-13cd-459a-81c0-fcead9ea7c4f
